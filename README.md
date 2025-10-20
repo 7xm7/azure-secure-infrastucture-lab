@@ -41,7 +41,7 @@ Deploy a **secure and cost-controlled infrastructure** in Microsoft Azure — co
 
 5. **Installed Apache2** and verified access via browser (`http://<public-ip>`)  
 
-![apache](screenshots/apachejpeg)
+![apache](screenshots/apache.jpeg)
 
 6. **Created Budget + Alert** (10 EUR/month, 80%) for cost control  
 
