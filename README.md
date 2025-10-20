@@ -23,7 +23,7 @@ Deploy a **secure and cost-controlled infrastructure** in Microsoft Azure — co
 ## 🧱 Steps Summary
 1. **Created Resource Group** `Lab-RG`  
 
-(screenshots/server-resources-group.jpeg)
+(screenshots/resources-group.jpeg)
 
 2. **Deployed Virtual Network** `Lab-VNet` with `frontend` and `backend` subnets  
 
