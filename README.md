@@ -53,6 +53,6 @@ Infrastructure successfully deployed and verified.
 
 ### Screenshots
 
-![Apache](screenshot/server-status.jpeg)
+![Apache](screenshots/server-status.jpeg)
 
 More in /Screenshots folder
