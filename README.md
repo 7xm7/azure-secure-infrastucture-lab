@@ -22,13 +22,26 @@ Deploy a **secure and cost-controlled infrastructure** in Microsoft Azure — co
 
 ## 🧱 Steps Summary
 1. **Created Resource Group** `Lab-RG`  
+
+(screenshots/server-resources-group.jpeg)
+
 2. **Deployed Virtual Network** `Lab-VNet` with `frontend` and `backend` subnets  
+
+
 3. **Created VM** `frontend-vm` in the `frontend` subnet (Ubuntu 22.04 LTS)  
+
+
 4. **Configured NSG** `frontend-nsg` →  
    - SSH (22) allowed **only** from my IP  
    - HTTP (80) allowed for testing Apache  
+
+
 5. **Installed Apache2** and verified access via browser (`http://<public-ip>`)  
+
+
 6. **Created Budget + Alert** (10 EUR/month, 80%) for cost control  
+
+
 7. **Validated** all connections and tested governance  
 
 ---
