@@ -51,7 +51,6 @@ Infrastructure successfully deployed and verified.
 | Budget alert (80%) | ✅ Configured |
 | NSG rules | ✅ Verified |
 
-### Screenshots
 
 ![Apache](screenshots/server-status.jpeg)
 
