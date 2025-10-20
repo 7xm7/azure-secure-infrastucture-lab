@@ -27,22 +27,29 @@ Deploy a **secure and cost-controlled infrastructure** in Microsoft Azure — co
 
 2. **Deployed Virtual Network** `Lab-VNet` with `frontend` and `backend` subnets  
 
+![vnet](screenshots/vnet.jpeg)
 
 3. **Created VM** `frontend-vm` in the `frontend` subnet (Ubuntu 22.04 LTS)  
 
+![vm](screenshots/vm.jpeg)
 
 4. **Configured NSG** `frontend-nsg` →  
    - SSH (22) allowed **only** from my IP  
    - HTTP (80) allowed for testing Apache  
 
+![nsg](screenshots/nsg.jpeg)
 
 5. **Installed Apache2** and verified access via browser (`http://<public-ip>`)  
 
+![apache](screenshots/apachejpeg)
 
 6. **Created Budget + Alert** (10 EUR/month, 80%) for cost control  
 
+![budget](budget.jpeg)
 
 7. **Validated** all connections and tested governance  
+
+![server-statues](screenshots/server-status.jpeg)
 
 ---
 
@@ -64,7 +71,7 @@ Infrastructure successfully deployed and verified.
 | Budget alert (80%) | ✅ Configured |
 | NSG rules | ✅ Verified |
 
+👤 Author
 
-![Apache](screenshots/server-status.jpeg)
-
-More in /Screenshots folder
+Xavier Mota
+LinkedIn •
