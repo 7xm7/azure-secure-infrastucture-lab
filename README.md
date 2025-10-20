@@ -74,4 +74,3 @@ Infrastructure successfully deployed and verified.
 👤 Author
 
 Xavier Mota
-LinkedIn •
