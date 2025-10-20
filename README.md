@@ -45,7 +45,7 @@ Deploy a **secure and cost-controlled infrastructure** in Microsoft Azure — co
 
 6. **Created Budget + Alert** (10 EUR/month, 80%) for cost control  
 
-![budget](budget.jpeg)
+![budget](screenshots/budget.jpeg)
 
 7. **Validated** all connections and tested governance  
 
